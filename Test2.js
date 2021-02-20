@@ -1,4 +1,0 @@
-Places:
-Mumbai
-Pune
-Delhi
